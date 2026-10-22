@@ -1,0 +1,17 @@
+# Dependencias de Node
+node_modules/
+cliente/node_modules/
+
+# Entorno virtual de Python
+venv/
+Backend/venv/
+__pycache__/
+*.pyc
+
+# Variables de entorno
+.env
+Backend/.env
+
+# Salidas de compilación
+dist/
+build/
